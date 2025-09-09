@@ -1,0 +1,26 @@
+@import url(satoshi.css);
+
+*{
+    font-family:'Satoshi-Medium';
+}
+
+body{
+    margin:0;
+    background-color: #EDEDE9;
+}
+
+.inicioNav{
+}
+
+.inicioNav h1{
+    display:inline-block;
+    margin-left:20px;
+    margin-right: 100px;
+}
+
+.inicioNav a{
+    color:black;
+    text-decoration: none;
+    margin:0px;
+}
+

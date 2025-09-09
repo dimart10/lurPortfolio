@@ -1,0 +1,9 @@
+.inicioHovers{
+    display:inline-block;
+}
+
+.inicioImg {
+    width:255px;
+    height:433px;
+    object-fit:cover;
+}

@@ -1,0 +1,12 @@
+.contactoCol{
+    display:inline-block;
+    width:303px;
+    margin:30px;
+    text-align:center;
+    vertical-align: top;
+}
+
+.contactoData{
+    text-align: left;
+}
+
